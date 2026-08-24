@@ -15,7 +15,7 @@
             "last_commit": "2026-07-31T12:40:49Z",
             "owner": "ForensicArtifacts",
             "repo": "artifacts",
-            "stars": 1267
+            "stars": 1268
           }
         },
         {
@@ -53,7 +53,7 @@
                 "last_commit": "2024-02-14T21:38:23Z",
                 "owner": "teamdfir",
                 "repo": "sift",
-                "stars": 550
+                "stars": 551
               }
             },
             {
@@ -247,7 +247,7 @@
                 "last_commit": "2026-08-19T18:14:44Z",
                 "owner": "osquery",
                 "repo": "osquery",
-                "stars": 23484
+                "stars": 23486
               }
             },
             {
@@ -262,7 +262,7 @@
                 "last_commit": "2026-05-12T12:52:29Z",
                 "owner": "google",
                 "repo": "grr",
-                "stars": 5089
+                "stars": 5088
               }
             },
             {
@@ -314,7 +314,7 @@
                 "last_commit": "2026-08-20T23:59:35Z",
                 "owner": "Velocidex",
                 "repo": "velociraptor",
-                "stars": 4195
+                "stars": 4197
               }
             },
             {
@@ -374,7 +374,7 @@
                 "last_commit": "2026-08-20T22:58:42Z",
                 "owner": "prosch88",
                 "repo": "UFADE",
-                "stars": 517
+                "stars": 518
               }
             },
             {
@@ -431,6 +431,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "dcfldd",
+              "description": "Different improved version of dd (this version has some bugs!, another version is on github adulau/dcfldd)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8373286,
+                "language": "C",
+                "last_commit": "2018-06-17T08:42:57Z",
+                "owner": "adulau",
+                "repo": "dcfldd",
+                "stars": 75
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Imageing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "floss",
               "description": "Static analysis tool to automatically deobfuscate strings from malware binaries",
               "children": [],
@@ -438,10 +460,10 @@
                 "archived": false,
                 "id": 52993349,
                 "language": "Python",
-                "last_commit": "2026-08-21T09:28:52Z",
+                "last_commit": "2026-08-24T12:09:09Z",
                 "owner": "mandiant",
                 "repo": "flare-floss",
-                "stars": 4131
+                "stars": 4132
               }
             },
             {
@@ -456,7 +478,7 @@
                 "last_commit": "2026-08-18T02:21:24Z",
                 "owner": "simsong",
                 "repo": "bulk_extractor",
-                "stars": 1412
+                "stars": 1413
               }
             },
             {
@@ -568,7 +590,7 @@
                 "last_commit": "2026-05-02T05:41:27Z",
                 "owner": "LETHAL-FORENSICS",
                 "repo": "MemProcFS-Analyzer",
-                "stars": 730
+                "stars": 731
               }
             },
             {
@@ -784,7 +806,7 @@
                 "last_commit": "2024-08-13T19:36:10Z",
                 "owner": "sgan81",
                 "repo": "apfs-fuse",
-                "stars": 2136
+                "stars": 2137
               }
             },
             {
@@ -926,7 +948,7 @@
                 "last_commit": "2026-08-21T22:30:56Z",
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21625
+                "stars": 21631
               }
             },
             {
@@ -956,7 +978,7 @@
                 "last_commit": "2026-08-22T05:12:57Z",
                 "owner": "abrignoni",
                 "repo": "ALEAPP",
-                "stars": 885
+                "stars": 886
               }
             },
             {
@@ -1139,10 +1161,10 @@
                 "archived": false,
                 "id": 21009909,
                 "language": "Python",
-                "last_commit": "2026-08-18T15:04:22Z",
+                "last_commit": "2026-08-24T13:04:19Z",
                 "owner": "google",
                 "repo": "timesketch",
-                "stars": 3392
+                "stars": 3393
               }
             },
             {
@@ -1157,7 +1179,7 @@
                 "last_commit": "2026-08-03T04:16:33Z",
                 "owner": "log2timeline",
                 "repo": "plaso",
-                "stars": 2137
+                "stars": 2138
               }
             },
             {
@@ -1303,6 +1325,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "sherloq",
+              "description": "An open-source digital photographic image forensic toolset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95291041,
+                "language": "Perl",
+                "last_commit": "2026-07-16T11:39:56Z",
+                "owner": "GuidoBartoli",
+                "repo": "sherloq",
+                "stars": 3192
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Picture Analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Binwalk",
               "description": "Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.",
               "children": [],
@@ -1313,7 +1357,7 @@
                 "last_commit": "2026-08-11T15:27:34Z",
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14258
+                "stars": 14264
               }
             },
             {
@@ -1328,7 +1372,7 @@
                 "last_commit": "2026-01-28T08:51:42Z",
                 "owner": "zed-0xff",
                 "repo": "zsteg",
-                "stars": 1615
+                "stars": 1616
               }
             },
             {
@@ -1358,7 +1402,7 @@
                 "last_commit": "2023-05-26T08:26:00Z",
                 "owner": "korczis",
                 "repo": "foremost",
-                "stars": 374
+                "stars": 375
               }
             },
             {
@@ -1380,6 +1424,50 @@
           "description": null,
           "node_type": "group",
           "title": "Steganography"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FOCA",
+              "description": "FOCA is a tool used mainly to find metadata and hidden information in the documents",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105561188,
+                "language": "C#",
+                "last_commit": "2022-12-08T09:31:55Z",
+                "owner": "ElevenPaths",
+                "repo": "FOCA",
+                "stars": 3621
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Metadata Forensics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Freezing Internet Tool",
+              "description": "Python 3 application for forensic acquisition of online content, including web pages, emails, and social media.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 590513065,
+                "language": "Python",
+                "last_commit": "2026-03-06T10:58:57Z",
+                "owner": "fit-project",
+                "repo": "fit",
+                "stars": 106
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Website Forensics"
         }
       ],
       "title": "Challenges"
@@ -1401,7 +1489,7 @@
                 "last_commit": "2024-07-22T19:59:35Z",
                 "owner": "apsdehal",
                 "repo": "awesome-ctf",
-                "stars": 11789
+                "stars": 11791
               }
             },
             {
@@ -1500,7 +1588,7 @@
             "last_commit": "2026-08-22T17:50:41Z",
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28272
+            "stars": 28281
           }
         },
         {
@@ -1515,7 +1603,7 @@
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 26992
+            "stars": 26995
           }
         },
         {
@@ -1530,7 +1618,7 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16927
+            "stars": 16929
           }
         },
         {
@@ -1545,7 +1633,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14790
+            "stars": 14791
           }
         },
         {
@@ -1560,7 +1648,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14151
+            "stars": 14149
           }
         },
         {
@@ -1575,7 +1663,7 @@
             "last_commit": "2024-07-22T19:59:35Z",
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11789
+            "stars": 11791
           }
         },
         {
@@ -1605,7 +1693,7 @@
             "last_commit": "2026-08-21T18:33:19Z",
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9631
+            "stars": 9638
           }
         },
         {
@@ -1620,7 +1708,7 @@
             "last_commit": "2026-07-15T10:58:26Z",
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9348
+            "stars": 9349
           }
         },
         {
@@ -1650,7 +1738,7 @@
             "last_commit": "2026-08-15T16:05:29Z",
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5722
+            "stars": 5723
           }
         },
         {
@@ -1665,7 +1753,7 @@
             "last_commit": "2026-08-23T09:53:20Z",
             "owner": "cugu",
             "repo": "awesome-forensics",
-            "stars": 5162
+            "stars": 5163
           }
         },
         {
@@ -1680,7 +1768,7 @@
             "last_commit": "2026-06-15T19:57:31Z",
             "owner": "pedramamini",
             "repo": "awesome-yara",
-            "stars": 4259
+            "stars": 4260
           }
         },
         {
@@ -1703,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:34:23.918Z",
+    "last_updated": "2026-08-24T14:00:54.785Z",
     "original_repository": "mesquidar/ForensicsTools",
     "original_repository_id": 283451672,
     "original_repository_sha": "33a29d19d332e19acc9226531151b76535e9a9db",
