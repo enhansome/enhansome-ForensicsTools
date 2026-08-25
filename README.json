@@ -105,7 +105,7 @@
                 "last_commit": "2026-08-24T20:48:40Z",
                 "owner": "sepinf-inc",
                 "repo": "IPED",
-                "stars": 2697
+                "stars": 2698
               }
             },
             {
@@ -247,7 +247,7 @@
                 "last_commit": "2026-08-19T18:14:44Z",
                 "owner": "osquery",
                 "repo": "osquery",
-                "stars": 23514
+                "stars": 23518
               }
             },
             {
@@ -311,10 +311,10 @@
                 "archived": false,
                 "id": 126576769,
                 "language": "Go",
-                "last_commit": "2026-08-24T22:05:59Z",
+                "last_commit": "2026-08-25T05:09:18Z",
                 "owner": "Velocidex",
                 "repo": "velociraptor",
-                "stars": 4200
+                "stars": 4201
               }
             },
             {
@@ -478,7 +478,7 @@
                 "last_commit": "2026-08-18T02:21:24Z",
                 "owner": "simsong",
                 "repo": "bulk_extractor",
-                "stars": 1413
+                "stars": 1414
               }
             },
             {
@@ -948,7 +948,7 @@
                 "last_commit": "2026-08-21T22:30:56Z",
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21637
+                "stars": 21640
               }
             },
             {
@@ -975,7 +975,7 @@
                 "archived": false,
                 "id": 242402791,
                 "language": "Python",
-                "last_commit": "2026-08-24T23:17:05Z",
+                "last_commit": "2026-08-25T05:40:45Z",
                 "owner": "abrignoni",
                 "repo": "ALEAPP",
                 "stars": 886
@@ -1097,7 +1097,7 @@
                 "last_commit": "2026-08-23T04:08:21Z",
                 "owner": "RyanDFIR",
                 "repo": "unfurl",
-                "stars": 762
+                "stars": 763
               }
             },
             {
@@ -1335,7 +1335,7 @@
                 "last_commit": "2026-07-16T11:39:56Z",
                 "owner": "GuidoBartoli",
                 "repo": "sherloq",
-                "stars": 3192
+                "stars": 3193
               }
             }
           ],
@@ -1588,7 +1588,7 @@
             "last_commit": "2026-08-22T17:50:41Z",
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28290
+            "stars": 28300
           }
         },
         {
@@ -1603,7 +1603,7 @@
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 26999
+            "stars": 27001
           }
         },
         {
@@ -1618,7 +1618,7 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16932
+            "stars": 16933
           }
         },
         {
@@ -1648,7 +1648,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14152
+            "stars": 14153
           }
         },
         {
@@ -1678,7 +1678,7 @@
             "last_commit": "2026-06-01T14:15:45Z",
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10532
+            "stars": 10533
           }
         },
         {
@@ -1693,7 +1693,7 @@
             "last_commit": "2026-08-21T18:33:19Z",
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9639
+            "stars": 9640
           }
         },
         {
@@ -1723,7 +1723,7 @@
             "last_commit": "2025-02-22T16:39:11Z",
             "owner": "paragonie",
             "repo": "awesome-appsec",
-            "stars": 7039
+            "stars": 7040
           }
         },
         {
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:33:41.619Z",
+    "last_updated": "2026-08-25T05:58:25.039Z",
     "original_repository": "mesquidar/ForensicsTools",
     "original_repository_id": 283451672,
     "original_repository_sha": "33a29d19d332e19acc9226531151b76535e9a9db",
