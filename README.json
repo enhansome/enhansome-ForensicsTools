@@ -158,7 +158,7 @@
                 "open_issues": 386,
                 "owner": "sepinf-inc",
                 "repo": "IPED",
-                "stars": 2995,
+                "stars": 2999,
                 "topics": [
                   "digital-forensics",
                   "forensic",
@@ -242,7 +242,7 @@
                 "open_issues": 12,
                 "owner": "DFIRKuiper",
                 "repo": "Kuiper",
-                "stars": 907,
+                "stars": 906,
                 "topics": [
                   "artifacts",
                   "dfir",
@@ -266,8 +266,8 @@
                 "id": 42533053,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-09T08:50:02Z",
-                "open_issues": 104,
+                "last_commit": "2026-09-23T23:15:31Z",
+                "open_issues": 101,
                 "owner": "google",
                 "repo": "turbinia",
                 "stars": 795,
@@ -318,7 +318,7 @@
                 "open_issues": 21,
                 "owner": "arxsys",
                 "repo": "dff",
-                "stars": 317,
+                "stars": 318,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:35.056Z"
@@ -391,7 +391,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-22T16:26:35Z",
-                "open_issues": 603,
+                "open_issues": 606,
                 "owner": "osquery",
                 "repo": "osquery",
                 "stars": 23587,
@@ -488,7 +488,7 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-21T09:03:37Z",
-                "open_issues": 75,
+                "open_issues": 76,
                 "owner": "Velocidex",
                 "repo": "velociraptor",
                 "stars": 4268,
@@ -537,8 +537,8 @@
                 "id": 190660866,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-21T22:22:45Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-23T22:22:18Z",
+                "open_issues": 6,
                 "owner": "microsoft",
                 "repo": "avml",
                 "stars": 1121,
@@ -566,7 +566,7 @@
                 "open_issues": 3,
                 "owner": "prosch88",
                 "repo": "UFADE",
-                "stars": 547,
+                "stars": 548,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:35.056Z"
@@ -725,10 +725,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-22T13:00:23Z",
-                "open_issues": 120,
+                "open_issues": 119,
                 "owner": "mandiant",
                 "repo": "flare-floss",
-                "stars": 4158,
+                "stars": 4159,
                 "topics": [
                   "deobfuscation",
                   "flare",
@@ -756,7 +756,7 @@
                 "open_issues": 67,
                 "owner": "simsong",
                 "repo": "bulk_extractor",
-                "stars": 1423,
+                "stars": 1422,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:35.056Z"
@@ -832,7 +832,7 @@
                 "open_issues": 221,
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8063,
+                "stars": 8060,
                 "topics": [
                   "malware",
                   "memory",
@@ -901,7 +901,7 @@
                 "open_issues": 4,
                 "owner": "denandz",
                 "repo": "KeeFarce",
-                "stars": 1030,
+                "stars": 1029,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:35.056Z"
@@ -922,7 +922,7 @@
                 "open_issues": 0,
                 "owner": "LETHAL-FORENSICS",
                 "repo": "MemProcFS-Analyzer",
-                "stars": 737,
+                "stars": 736,
                 "topics": [
                   "dfir",
                   "digital-forensics",
@@ -1014,7 +1014,7 @@
                 "open_issues": 22,
                 "owner": "JPCERTCC",
                 "repo": "LogonTracer",
-                "stars": 3232,
+                "stars": 3233,
                 "topics": [
                   "active-directory",
                   "blueteam",
@@ -1044,7 +1044,7 @@
                 "open_issues": 44,
                 "owner": "yampelo",
                 "repo": "beagle",
-                "stars": 1355,
+                "stars": 1354,
                 "topics": [
                   "dfir",
                   "digital-forensics",
@@ -1445,7 +1445,7 @@
                 "open_issues": 0,
                 "owner": "LETHAL-FORENSICS",
                 "repo": "macos-collector",
-                "stars": 52,
+                "stars": 51,
                 "topics": [
                   "apple",
                   "dfir",
@@ -1506,11 +1506,11 @@
                 "id": 30102273,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-22T01:48:28Z",
+                "last_commit": "2026-09-23T02:17:16Z",
                 "open_issues": 12,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21815,
+                "stars": 21821,
                 "topics": [
                   "android-security",
                   "api-testing",
@@ -1572,11 +1572,11 @@
                 "id": 242402791,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-22T03:06:41Z",
+                "last_commit": "2026-09-23T11:43:11Z",
                 "open_issues": 38,
                 "owner": "abrignoni",
                 "repo": "ALEAPP",
-                "stars": 931,
+                "stars": 934,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:35.056Z"
@@ -1597,7 +1597,7 @@
                 "open_issues": 7,
                 "owner": "vgmoose",
                 "repo": "OpenBackupExtractor",
-                "stars": 192,
+                "stars": 193,
                 "topics": [
                   "backup",
                   "extractor",
@@ -1727,11 +1727,11 @@
                 "id": 20046426,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T19:07:57Z",
+                "last_commit": "2026-09-23T16:13:24Z",
                 "open_issues": 37,
                 "owner": "RyanDFIR",
                 "repo": "hindsight",
-                "stars": 1515,
+                "stars": 1513,
                 "topics": [
                   "browser-forensics",
                   "chrome",
@@ -1941,7 +1941,7 @@
                 "open_issues": 5,
                 "owner": "log2timeline",
                 "repo": "dftimewolf",
-                "stars": 355,
+                "stars": 356,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:35.056Z"
@@ -2150,7 +2150,7 @@
                 "open_issues": 25,
                 "owner": "GuidoBartoli",
                 "repo": "sherloq",
-                "stars": 3207,
+                "stars": 3209,
                 "topics": [
                   "digital-image-forensics",
                   "forensic-image-analysis",
@@ -2182,10 +2182,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-08-11T15:27:34Z",
-                "open_issues": 94,
+                "open_issues": 95,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14364,
+                "stars": 14367,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:35.056Z"
@@ -2297,7 +2297,7 @@
                 "open_issues": 26,
                 "owner": "ElevenPaths",
                 "repo": "FOCA",
-                "stars": 3637,
+                "stars": 3636,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:35.056Z"
@@ -2365,10 +2365,10 @@
                 "language": "JavaScript",
                 "license": "CC0-1.0",
                 "last_commit": "2024-07-22T19:59:35Z",
-                "open_issues": 67,
+                "open_issues": 68,
                 "owner": "apsdehal",
                 "repo": "awesome-ctf",
-                "stars": 11862,
+                "stars": 11863,
                 "topics": [
                   "awesome",
                   "ctf",
@@ -2394,7 +2394,7 @@
                 "open_issues": 0,
                 "owner": "stuxnet999",
                 "repo": "MemLabs",
-                "stars": 1906,
+                "stars": 1905,
                 "topics": [
                   "ctf",
                   "ctf-challenges",
@@ -2509,10 +2509,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-09-09T20:56:00Z",
-            "open_issues": 2,
+            "open_issues": 6,
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 29688,
+            "stars": 29705,
             "topics": [
               "awesome-list",
               "osint",
@@ -2528,16 +2528,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A collection of awesome penetration testing resources, tools and other shiny things",
+            "description": "A collection of awesome penetration testing resources and tools",
             "homepage": null,
             "id": 22585805,
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
-            "open_issues": 122,
+            "open_issues": 124,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27266,
+            "stars": 27270,
             "topics": [
               "awesome",
               "awesome-list"
@@ -2561,7 +2561,7 @@
             "open_issues": 74,
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 17116,
+            "stars": 17119,
             "topics": [
               "awesome",
               "hacking"
@@ -2585,7 +2585,7 @@
             "open_issues": 340,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14881,
+            "stars": 14882,
             "topics": [
               "awesome-list",
               "security"
@@ -2609,7 +2609,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14215,
+            "stars": 14217,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -2647,10 +2647,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2024-07-22T19:59:35Z",
-            "open_issues": 67,
+            "open_issues": 68,
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11862,
+            "stars": 11863,
             "topics": [
               "awesome",
               "ctf",
@@ -2676,7 +2676,7 @@
             "open_issues": 30,
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10565,
+            "stars": 10566,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2700,10 +2700,10 @@
             "language": "Makefile",
             "license": "Apache-2.0",
             "last_commit": "2026-09-22T04:19:19Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9705,
+            "stars": 9707,
             "topics": [
               "android",
               "awesome",
@@ -2727,10 +2727,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-07-15T10:58:26Z",
-            "open_issues": 82,
+            "open_issues": 85,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9404,
+            "stars": 9407,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2760,7 +2760,7 @@
             "open_issues": 42,
             "owner": "paragonie",
             "repo": "awesome-appsec",
-            "stars": 7063,
+            "stars": 7065,
             "topics": [
               "application-security",
               "curated",
@@ -2788,7 +2788,7 @@
             "open_issues": 18,
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5751,
+            "stars": 5750,
             "topics": [
               "awesome",
               "courses",
@@ -2815,10 +2815,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-05T10:46:10Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "cugu",
             "repo": "awesome-forensics",
-            "stars": 5191,
+            "stars": 5193,
             "topics": [
               "computer-forensics",
               "dfir",
@@ -2846,7 +2846,7 @@
             "open_issues": 1,
             "owner": "pedramamini",
             "repo": "awesome-yara",
-            "stars": 4274,
+            "stars": 4273,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2898,7 +2898,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T01:29:35.943Z",
+    "last_updated": "2026-09-24T01:22:56.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free and open forensics analysis tools and other resources",
@@ -2910,7 +2910,7 @@
       "open_issues": 4,
       "owner": "mesquidar",
       "repo": "ForensicsTools",
-      "stars": 2573,
+      "stars": 2572,
       "topics": [
         "awesome-list",
         "computer-fore",
