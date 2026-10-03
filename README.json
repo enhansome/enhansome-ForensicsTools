@@ -541,7 +541,7 @@
                 "open_issues": 6,
                 "owner": "microsoft",
                 "repo": "avml",
-                "stars": 1122,
+                "stars": 1123,
                 "topics": [
                   "linux-security",
                   "memory-forensics",
@@ -756,7 +756,7 @@
                 "open_issues": 67,
                 "owner": "simsong",
                 "repo": "bulk_extractor",
-                "stars": 1426,
+                "stars": 1427,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:35.056Z"
@@ -1174,7 +1174,7 @@
                 {
                   "node_type": "item",
                   "title": "NTFS USN Journal parser",
-                  "description": null,
+                  "description": "PoorBillionaire/USN-Journal-Parser",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1249,7 +1249,7 @@
             {
               "node_type": "item",
               "title": "OSXAuditor",
-              "description": null,
+              "description": "jipegit/OSXAuditor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1302,7 +1302,7 @@
             {
               "node_type": "item",
               "title": "OSX Collect",
-              "description": null,
+              "description": "YelpArchive/osxcollector",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1369,7 +1369,7 @@
             {
               "node_type": "item",
               "title": "APOLLO",
-              "description": null,
+              "description": "mac4n6/APOLLO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2355,7 +2355,7 @@
             {
               "node_type": "item",
               "title": "Forensics CTFs",
-              "description": null,
+              "description": "apsdehal/awesome-ctf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2368,7 +2368,7 @@
                 "open_issues": 70,
                 "owner": "apsdehal",
                 "repo": "awesome-ctf",
-                "stars": 11880,
+                "stars": 11881,
                 "topics": [
                   "awesome",
                   "ctf",
@@ -2381,7 +2381,7 @@
             {
               "node_type": "item",
               "title": "MemLabs",
-              "description": null,
+              "description": "stuxnet999/MemLabs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2394,7 +2394,7 @@
                 "open_issues": 0,
                 "owner": "stuxnet999",
                 "repo": "MemLabs",
-                "stars": 1914,
+                "stars": 1915,
                 "topics": [
                   "ctf",
                   "ctf-challenges",
@@ -2467,7 +2467,7 @@
             {
               "node_type": "item",
               "title": "HFS+ Resources",
-              "description": null,
+              "description": "mac4n6/HFSPlus_Resources",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2499,7 +2499,7 @@
         {
           "node_type": "item",
           "title": "OSINT",
-          "description": null,
+          "description": "jivoi/awesome-osint",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2512,7 +2512,7 @@
             "open_issues": 2,
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 29874,
+            "stars": 29876,
             "topics": [
               "awesome-list",
               "osint",
@@ -2524,7 +2524,7 @@
         {
           "node_type": "item",
           "title": "Pentesting",
-          "description": null,
+          "description": "enaqx/awesome-pentest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2537,7 +2537,7 @@
             "open_issues": 133,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27329,
+            "stars": 27330,
             "topics": [
               "awesome",
               "awesome-list"
@@ -2548,7 +2548,7 @@
         {
           "node_type": "item",
           "title": "Hacking",
-          "description": null,
+          "description": "carpedm20/awesome-hacking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2572,7 +2572,7 @@
         {
           "node_type": "item",
           "title": "Security",
-          "description": null,
+          "description": "sbilly/awesome-security",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2596,7 +2596,7 @@
         {
           "node_type": "item",
           "title": "Malware Analysis",
-          "description": null,
+          "description": "rshipp/awesome-malware-analysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2609,7 +2609,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14235,
+            "stars": 14237,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -2637,7 +2637,7 @@
         {
           "node_type": "item",
           "title": "CTFs",
-          "description": null,
+          "description": "apsdehal/awesome-ctf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2650,7 +2650,7 @@
             "open_issues": 70,
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11880,
+            "stars": 11881,
             "topics": [
               "awesome",
               "ctf",
@@ -2663,7 +2663,7 @@
         {
           "node_type": "item",
           "title": "Honeypots",
-          "description": null,
+          "description": "paralax/awesome-honeypots",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2676,7 +2676,7 @@
             "open_issues": 30,
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10577,
+            "stars": 10579,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2690,7 +2690,7 @@
         {
           "node_type": "item",
           "title": "Android Security",
-          "description": null,
+          "description": "ashishb/android-security-awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2717,7 +2717,7 @@
         {
           "node_type": "item",
           "title": "Incident-Response",
-          "description": null,
+          "description": "meirwah/awesome-incident-response",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2730,7 +2730,7 @@
             "open_issues": 88,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9426,
+            "stars": 9427,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2747,7 +2747,7 @@
         {
           "node_type": "item",
           "title": "AppSec",
-          "description": null,
+          "description": "paragonie/awesome-appsec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2775,7 +2775,7 @@
         {
           "node_type": "item",
           "title": "Infosec",
-          "description": null,
+          "description": "onlurking/awesome-infosec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2805,7 +2805,7 @@
         {
           "node_type": "item",
           "title": "Awesome Forensics",
-          "description": null,
+          "description": "cugu/awesome-forensics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2833,7 +2833,7 @@
         {
           "node_type": "item",
           "title": "YARA",
-          "description": null,
+          "description": "pedramamini/awesome-yara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2869,7 +2869,7 @@
         {
           "node_type": "item",
           "title": "Social Engineering",
-          "description": null,
+          "description": "giuliacassara/awesome-social-engineering",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2898,7 +2898,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:55:33.186Z",
+    "last_updated": "2026-10-03T04:35:02.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free and open forensics analysis tools and other resources",

@@ -93,7 +93,7 @@ A list of free and open source forensics analysis tools and other resources.
 
 * [Velociraptor](https://github.com/Velocidex/velociraptor) ⭐ 4,289 | 🐛 79 | 🌐 Go | 📅 2026-10-03 - Velociraptor is a tool for collecting host based state information using Velocidex Query Language (VQL) queries
 * [LiME](https://github.com/504ensicsLabs/LiME) ⭐ 2,041 | 🐛 35 | 🌐 C | 📅 2026-04-05 - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD
-* [AVML](https://github.com/microsoft/avml) ⭐ 1,122 | 🐛 6 | 🌐 Rust | 📅 2026-09-28 - A portable volatile memory acquisition tool for Linux
+* [AVML](https://github.com/microsoft/avml) ⭐ 1,123 | 🐛 6 | 🌐 Rust | 📅 2026-09-28 - A portable volatile memory acquisition tool for Linux
 * [UFADE](https://github.com/prosch88/UFADE) ⭐ 563 | 🐛 3 | 🌐 Python | 📅 2026-10-01 - Extract files from Apple devices on Windows, Linux and MacOS. Mostly a wrapper for pymobiledevice3. Creates iTunes-style backups and "advanced logical backups"
 * [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) ⭐ 521 | 🐛 11 | 🌐 Python | 📅 2021-01-26 - Collect artifacts on windows
 * [artifactcollector](https://github.com/forensicanalysis/artifactcollector) ⚠️ Archived - A customizable agent to collect forensic artifacts on any Windows, macOS or Linux system
@@ -116,7 +116,7 @@ A list of free and open source forensics analysis tools and other resources.
 ### Carving
 
 * [floss](https://github.com/fireeye/flare-floss) ⭐ 4,171 | 🐛 122 | 🌐 Python | 📅 2026-10-02 - Static analysis tool to automatically deobfuscate strings from malware binaries
-* [bulk\_extractor](https://github.com/simsong/bulk_extractor) ⭐ 1,426 | 🐛 67 | 🌐 C++ | 📅 2026-09-01 - Extracts informations like email adresses, creditscard numbers and histrograms of disk images
+* [bulk\_extractor](https://github.com/simsong/bulk_extractor) ⭐ 1,427 | 🐛 67 | 🌐 C++ | 📅 2026-09-01 - Extracts informations like email adresses, creditscard numbers and histrograms of disk images
 * [swap\_digger](https://github.com/sevagas/swap_digger) ⭐ 534 | 🐛 1 | 🌐 Shell | 📅 2021-06-26 - A bash script used to automate Linux swap analysis, automating swap extraction and searches for Linux user credentials, Web form credentials, Web form emails, etc.
 * [bstrings](https://github.com/EricZimmerman/bstrings) ⭐ 152 | 🐛 0 | 🌐 C# | 📅 2026-04-26 - Improved strings utility
 * :star: [photorec](https://www.cgsecurity.org/wiki/PhotoRec) - File carving tool
@@ -262,8 +262,8 @@ A list of free and open source forensics analysis tools and other resources.
 
 ### Challenges
 
-* [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics) ⭐ 11,880 | 🐛 70 | 🌐 JavaScript | 📅 2024-07-22
-* [MemLabs](https://github.com/stuxnet999/MemLabs) ⭐ 1,914 | 🐛 0 | 🌐 Shell | 📅 2021-03-08
+* [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics) ⭐ 11,881 | 🐛 70 | 🌐 JavaScript | 📅 2024-07-22
+* [MemLabs](https://github.com/stuxnet999/MemLabs) ⭐ 1,915 | 🐛 0 | 🌐 Shell | 📅 2021-03-08
 * [AnalystUnknown Cyber Range](https://aucr.io/auth/login?next=%2F)
 * [Champlain College DFIR CTF](https://champdfa-ccsc-sp20.ctfd.io)
 * [Corelight CTF](https://www3.corelight.com/l/420832/2020-03-31/lcxk2q)
@@ -350,15 +350,15 @@ A list of free and open source forensics analysis tools and other resources.
 
 ## Related Awesome Lists
 
-* [OSINT](https://github.com/jivoi/awesome-osint) ⭐ 29,874 | 🐛 2 | 📅 2026-09-09
-* [Pentesting](https://github.com/enaqx/awesome-pentest) ⭐ 27,329 | 🐛 133 | 📅 2026-07-25
+* [OSINT](https://github.com/jivoi/awesome-osint) ⭐ 29,876 | 🐛 2 | 📅 2026-09-09
+* [Pentesting](https://github.com/enaqx/awesome-pentest) ⭐ 27,330 | 🐛 133 | 📅 2026-07-25
 * [Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,186 | 🐛 74 | 📅 2024-06-02
 * [Security](https://github.com/sbilly/awesome-security) ⭐ 14,930 | 🐛 350 | 📅 2026-01-11
-* [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,235 | 🐛 25 | 📅 2024-06-07
-* [CTFs](https://github.com/apsdehal/awesome-ctf) ⭐ 11,880 | 🐛 70 | 🌐 JavaScript | 📅 2024-07-22
-* [Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,577 | 🐛 30 | 🌐 Python | 📅 2026-06-01
+* [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,237 | 🐛 25 | 📅 2024-06-07
+* [CTFs](https://github.com/apsdehal/awesome-ctf) ⭐ 11,881 | 🐛 70 | 🌐 JavaScript | 📅 2024-07-22
+* [Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,579 | 🐛 30 | 🌐 Python | 📅 2026-06-01
 * [Android Security](https://github.com/ashishb/android-security-awesome) ⭐ 9,723 | 🐛 0 | 🌐 Makefile | 📅 2026-10-01
-* [Incident-Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,426 | 🐛 88 | 📅 2026-07-15
+* [Incident-Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,427 | 🐛 88 | 📅 2026-07-15
 * [AppSec](https://github.com/paragonie/awesome-appsec) ⭐ 7,076 | 🐛 43 | 🌐 PHP | 📅 2025-02-22
 * [Infosec](https://github.com/onlurking/awesome-infosec) ⭐ 5,754 | 🐛 19 | 📅 2026-08-28
 * [Awesome Forensics](https://github.com/cugu/awesome-forensics) ⭐ 5,209 | 🐛 5 | 📅 2026-09-26
