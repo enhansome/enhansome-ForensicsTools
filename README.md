@@ -41,7 +41,7 @@ A list of free and open source forensics analysis tools and other resources.
 
 ## Collections
 
-* :star: [ForensicArtifacts.com Artifact Repository](https://github.com/ForensicArtifacts/artifacts) ⭐ 1,286 | 🐛 38 | 🌐 Python | 📅 2026-11-01 - Machine-readable knowledge base of forensic artifacts
+* :star: [ForensicArtifacts.com Artifact Repository](https://github.com/ForensicArtifacts/artifacts) ⭐ 1,287 | 🐛 38 | 🌐 Python | 📅 2026-11-01 - Machine-readable knowledge base of forensic artifacts
 * [DFIR-SQL-Query-Repo](https://github.com/abrignoni/DFIR-SQL-Query-Repo) ⭐ 120 | 🐛 1 | 📅 2021-04-17 - Collection of SQL queries templates for digital forensics use by platform and application.
 * [DFIR – The definitive compendium project](https://aboutdfir.com) - Collection of forensic resources for learning and research. Offers lists of certifications, books, blogs, challenges and more
 * [dfir.training](https://www.dfir.training/) - Database of forensic resources focused on events, tools and more
@@ -71,8 +71,8 @@ A list of free and open source forensics analysis tools and other resources.
 
 ### Frameworks
 
-* :star: [The Sleuth Kit](https://github.com/sleuthkit/sleuthkit) ⭐ 3,189 | 🐛 497 | 🌐 C | 📅 2026-11-11 - Tools for low level forensic analysis
-* [IPED - Indexador e Processador de Evidências Digitais](https://github.com/sepinf-inc/IPED) ⭐ 3,096 | 🐛 414 | 🌐 Java | 📅 2026-11-11 - Brazilian Federal Police Tool for Forensic Investigations
+* :star: [The Sleuth Kit](https://github.com/sleuthkit/sleuthkit) ⭐ 3,190 | 🐛 496 | 🌐 C | 📅 2026-11-11 - Tools for low level forensic analysis
+* [IPED - Indexador e Processador de Evidências Digitais](https://github.com/sepinf-inc/IPED) ⭐ 3,097 | 🐛 417 | 🌐 Java | 📅 2026-11-13 - Brazilian Federal Police Tool for Forensic Investigations
 * [PowerForensics](https://github.com/Invoke-IR/PowerForensics) ⭐ 1,444 | 🐛 64 | 🌐 C# | 📅 2023-11-16 - PowerForensics is a framework for live disk forensic analysis
 * [IntelMQ](https://github.com/certtools/intelmq) ⭐ 1,143 | 🐛 262 | 🌐 Python | 📅 2026-04-28 - IntelMQ collects and processes security feeds
 * [Kuiper](https://github.com/DFIRKuiper/Kuiper) ⭐ 916 | 🐛 12 | 🌐 JavaScript | 📅 2024-10-12 - Digital Investigation Platform
@@ -85,17 +85,17 @@ A list of free and open source forensics analysis tools and other resources.
 
 ### Live forensics
 
-* [osquery](https://github.com/osquery/osquery) ⭐ 23,755 | 🐛 576 | 🌐 C++ | 📅 2026-11-12 - SQL powered operating system analytics
+* [osquery](https://github.com/osquery/osquery) ⭐ 23,760 | 🐛 577 | 🌐 C++ | 📅 2026-11-12 - SQL powered operating system analytics
 * [grr](https://github.com/google/grr) ⭐ 5,110 | 🐛 190 | 🌐 Python | 📅 2026-10-01 - GRR Rapid Response: remote live forensics for incident response
 * [mig](https://github.com/mozilla/mig) ⚠️ Archived - Distributed & real time digital forensics at the speed of the cloud
 * [Linux Expl0rer](https://github.com/intezer/linux-explorer) ⚠️ Archived - Easy-to-use live forensics toolbox for Linux endpoints written in Python & Flask
 
 ### Acquisition
 
-* [Velociraptor](https://github.com/Velocidex/velociraptor) ⭐ 4,445 | 🐛 68 | 🌐 Go | 📅 2026-11-12 - Velociraptor is a tool for collecting host based state information using Velocidex Query Language (VQL) queries
+* [Velociraptor](https://github.com/Velocidex/velociraptor) ⭐ 4,450 | 🐛 68 | 🌐 Go | 📅 2026-11-12 - Velociraptor is a tool for collecting host based state information using Velocidex Query Language (VQL) queries
 * [LiME](https://github.com/504ensicsLabs/LiME) ⭐ 2,059 | 🐛 36 | 🌐 C | 📅 2026-04-05 - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD
-* [AVML](https://github.com/microsoft/avml) ⭐ 1,134 | 🐛 5 | 🌐 Rust | 📅 2026-11-05 - A portable volatile memory acquisition tool for Linux
-* [UFADE](https://github.com/prosch88/UFADE) ⭐ 598 | 🐛 7 | 🌐 Python | 📅 2026-11-08 - Extract files from Apple devices on Windows, Linux and MacOS. Mostly a wrapper for pymobiledevice3. Creates iTunes-style backups and "advanced logical backups"
+* [AVML](https://github.com/microsoft/avml) ⭐ 1,134 | 🐛 4 | 🌐 Rust | 📅 2026-11-12 - A portable volatile memory acquisition tool for Linux
+* [UFADE](https://github.com/prosch88/UFADE) ⭐ 599 | 🐛 5 | 🌐 Python | 📅 2026-11-12 - Extract files from Apple devices on Windows, Linux and MacOS. Mostly a wrapper for pymobiledevice3. Creates iTunes-style backups and "advanced logical backups"
 * [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) ⭐ 515 | 🐛 11 | 🌐 Python | 📅 2021-01-26 - Collect artifacts on windows
 * [Fuji](https://github.com/Lazza/Fuji) ⭐ 322 | 🐛 13 | 🌐 Python | 📅 2026-06-02 - Graphical interface for the forensic logical acquisition of Mac computers
 * [artifactcollector](https://github.com/forensicanalysis/artifactcollector) ⚠️ Archived - A customizable agent to collect forensic artifacts on any Windows, macOS or Linux system
@@ -118,8 +118,8 @@ A list of free and open source forensics analysis tools and other resources.
 
 ### Carving
 
-* [floss](https://github.com/fireeye/flare-floss) ⭐ 4,222 | 🐛 120 | 🌐 Python | 📅 2026-11-01 - Static analysis tool to automatically deobfuscate strings from malware binaries
-* [bulk\_extractor](https://github.com/simsong/bulk_extractor) ⭐ 1,446 | 🐛 68 | 🌐 C++ | 📅 2026-10-12 - Extracts informations like email adresses, creditscard numbers and histrograms of disk images
+* [floss](https://github.com/fireeye/flare-floss) ⭐ 4,224 | 🐛 121 | 🌐 Python | 📅 2026-11-01 - Static analysis tool to automatically deobfuscate strings from malware binaries
+* [bulk\_extractor](https://github.com/simsong/bulk_extractor) ⭐ 1,447 | 🐛 68 | 🌐 C++ | 📅 2026-10-12 - Extracts informations like email adresses, creditscard numbers and histrograms of disk images
 * [swap\_digger](https://github.com/sevagas/swap_digger) ⭐ 534 | 🐛 1 | 🌐 Shell | 📅 2021-06-26 - A bash script used to automate Linux swap analysis, automating swap extraction and searches for Linux user credentials, Web form credentials, Web form emails, etc.
 * [bstrings](https://github.com/EricZimmerman/bstrings) ⭐ 152 | 🐛 2 | 🌐 C# | 📅 2026-11-01 - Improved strings utility
 * :star: [photorec](https://www.cgsecurity.org/wiki/PhotoRec) - File carving tool
@@ -127,10 +127,10 @@ A list of free and open source forensics analysis tools and other resources.
 ### Memory Forensics
 
 * :star:[volatility](https://github.com/volatilityfoundation/volatility) ⚠️ Archived - The memory forensic framework
-* [MemProcFS](https://github.com/ufrisk/MemProcFS) ⭐ 4,420 | 🐛 8 | 🌐 C | 📅 2026-11-07 - An easy and convenient way of accessing physical memory as files a virtual file system.
+* [MemProcFS](https://github.com/ufrisk/MemProcFS) ⭐ 4,421 | 🐛 12 | 🌐 C | 📅 2026-11-07 - An easy and convenient way of accessing physical memory as files a virtual file system.
 * [Rekall](https://github.com/google/rekall) ⚠️ Archived - Memory Forensic Framework
 * [KeeFarce](https://github.com/denandz/KeeFarce) ⭐ 1,031 | 🐛 4 | 🌐 C++ | 📅 2015-11-17 - Extract KeePass passwords from memory
-* [MemPrcFs Analyzer](https://github.com/LETHAL-FORENSICS/MemProcFS-Analyzer) ⭐ 762 | 🐛 0 | 🌐 PowerShell | 📅 2026-11-11 - PowerShell script utilized to simplify the usage of MemProcFS and to optimize your memory analysis workflow.
+* [MemPrcFs Analyzer](https://github.com/LETHAL-FORENSICS/MemProcFS-Analyzer) ⭐ 762 | 🐛 0 | 🌐 PowerShell | 📅 2026-11-12 - PowerShell script utilized to simplify the usage of MemProcFS and to optimize your memory analysis workflow.
 * [VolUtility](https://github.com/kevthehermit/VolUtility) ⭐ 388 | 🐛 40 | 🌐 Python | 📅 2026-01-13 - Web App for Volatility framework
 * [inVtero.net](https://github.com/ShaneK2/inVtero.net) ⭐ 296 | 🐛 2 | 🌐 C# | 📅 2023-09-30 - High speed memory analysis framework
   developed in .NET supports all Windows x64, includes code integrity and write support
@@ -146,7 +146,7 @@ A list of free and open source forensics analysis tools and other resources.
 
 * [LogonTracer](https://github.com/JPCERTCC/LogonTracer) ⭐ 3,304 | 🐛 23 | 🌐 Python | 📅 2026-08-02 - Investigate malicious Windows logon by visualizing and analyzing Windows event log
 * [Beagle](https://github.com/yampelo/beagle) ⭐ 1,359 | 🐛 44 | 🌐 Python | 📅 2022-12-13 -  Transform data sources and logs into graphs
-* [RegRipper3.0](https://github.com/keydet89/RegRipper3.0) ⭐ 728 | 🐛 10 | 🌐 Perl | 📅 2026-05-27 - RegRipper is an open source Perl tool for parsing the Registry and presenting it for analysis.
+* [RegRipper3.0](https://github.com/keydet89/RegRipper3.0) ⭐ 729 | 🐛 10 | 🌐 Perl | 📅 2026-05-27 - RegRipper is an open source Perl tool for parsing the Registry and presenting it for analysis.
 * [python-evt](https://github.com/williballenthin/python-evt) ⭐ 51 | 🐛 2 | 🌐 Python | 📅 2023-06-30 - Pure Python parser for classic Windows Event Log files (.evt)
 * [CrowdResponse](https://www.crowdstrike.com/resources/community-tools/crowdresponse/) - by CrowdStrike is a static host data collection tool
 * [FRED](https://www.pinguin.lu/fred) - Cross-platform microsoft registry hive editor
@@ -182,9 +182,9 @@ A list of free and open source forensics analysis tools and other resources.
 
 ### Mobile Forensics
 
-* [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 22,202 | 🐛 7 | 🌐 Python | 📅 2026-11-11 - is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
-* [Andriller](https://github.com/den4uk/andriller) ⭐ 1,631 | 🐛 13 | 🌐 Python | 📅 2022-06-27 - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices
-* [ALEAPP](https://github.com/abrignoni/ALEAPP) ⭐ 1,044 | 🐛 38 | 🌐 Python | 📅 2026-11-11 - An Android Logs Events and Protobuf Parser
+* [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 22,210 | 🐛 7 | 🌐 Python | 📅 2026-11-11 - is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
+* [Andriller](https://github.com/den4uk/andriller) ⭐ 1,632 | 🐛 13 | 🌐 Python | 📅 2022-06-27 - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices
+* [ALEAPP](https://github.com/abrignoni/ALEAPP) ⭐ 1,044 | 🐛 37 | 🌐 Python | 📅 2026-11-12 - An Android Logs Events and Protobuf Parser
 * [OpenBackupExtractor](https://github.com/vgmoose/OpenBackupExtractor) ⭐ 189 | 🐛 7 | 🌐 Swift | 📅 2022-01-06 - is an app for extracting data from iPhone and iPad backups.
 * [MEAT](https://github.com/jfarley248/MEAT) ⭐ 167 | 🐛 2 | 🌐 Python | 📅 2020-05-21 - Perform different kinds of acquisitions on iOS devices
 * [iOS Frequent Locations Dumper](https://github.com/mac4n6/iOS-Frequent-Locations-Dumper) ⭐ 91 | 🐛 1 | 🌐 Python | 📅 2018-11-04 - Dump the contents of the StateModel#.archive files located in /private/var/mobile/Library/Caches/com.apple.routined/
@@ -196,7 +196,7 @@ A list of free and open source forensics analysis tools and other resources.
 
 ### Browser Artifacts
 
-* [hindsight](https://github.com/obsidianforensics/hindsight) ⭐ 1,557 | 🐛 25 | 🌐 Python | 📅 2026-11-11 - Internet history forensics for Google Chrome/Chromium
+* [hindsight](https://github.com/obsidianforensics/hindsight) ⭐ 1,559 | 🐛 25 | 🌐 Python | 📅 2026-11-11 - Internet history forensics for Google Chrome/Chromium
 * [unfurl](https://github.com/obsidianforensics/unfurl) ⭐ 784 | 🐛 32 | 🌐 Python | 📅 2026-10-29 - Extract and visualize data from URLs
 * [chrome-url-dumper](https://github.com/eLoopWoo/chrome-url-dumper) ⭐ 41 | 🐛 1 | 🌐 Python | 📅 2017-11-11 - Dump all local stored infromation collected by Chrome
 * [mozdmp](https://github.com/asaix/mozdmp) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-07-07 - Offline profile decryption tool for Mozilla Firefox. Supports multi-core CPU-based cracking of the master password and the latest Firefox hash formats, including those not yet supported by Hashcat and JTR.
@@ -205,8 +205,8 @@ A list of free and open source forensics analysis tools and other resources.
 
 ### Timeline Analysis
 
-* [timesketch](https://github.com/google/timesketch) ⭐ 3,448 | 🐛 252 | 🌐 Python | 📅 2026-11-11 - Collaborative forensic timeline analysis
-* :star: [plaso](https://github.com/log2timeline/plaso) ⭐ 2,190 | 🐛 386 | 🌐 Python | 📅 2026-11-07 - Extract timestamps from various files and aggregate them
+* [timesketch](https://github.com/google/timesketch) ⭐ 3,448 | 🐛 250 | 🌐 Python | 📅 2026-11-12 - Collaborative forensic timeline analysis
+* :star: [plaso](https://github.com/log2timeline/plaso) ⭐ 2,192 | 🐛 387 | 🌐 Python | 📅 2026-11-07 - Extract timestamps from various files and aggregate them
 * [DFTimewolf](https://github.com/log2timeline/dftimewolf) ⭐ 361 | 🐛 5 | 🌐 Python | 📅 2026-11-06 - Framework for orchestrating forensic collection, processing and data export using GRR and Rekall
 * [timeliner](https://github.com/airbus-cert/timeliner) ⭐ 40 | 🐛 0 | 🌐 Go | 📅 2024-08-05 - A rewrite of mactime, a bodyfile reader
 
@@ -231,15 +231,15 @@ A list of free and open source forensics analysis tools and other resources.
 
 ### Picture Analysis
 
-* [sherloq](https://github.com/GuidoBartoli/sherloq) ⭐ 3,252 | 🐛 25 | 🌐 Perl | 📅 2026-07-16 - An open-source digital photographic image forensic toolset
+* [sherloq](https://github.com/GuidoBartoli/sherloq) ⭐ 3,253 | 🐛 25 | 🌐 Perl | 📅 2026-07-16 - An open-source digital photographic image forensic toolset
 * [Ghiro](http://www.getghiro.org/) - is a fully automated tool designed to run forensics analysis over a massive amount of images
 
 ### Steganography
 
-* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,666 | 🐛 105 | 🌐 Rust | 📅 2026-08-11 - Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.
+* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,675 | 🐛 104 | 🌐 Rust | 📅 2026-08-11 - Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.
 * [Zsteg](https://github.com/zed-0xff/zsteg) ⭐ 1,632 | 🐛 6 | 🌐 Ruby | 📅 2026-01-28 - A steganographic coder for WAV files
 * [Steghide](https://github.com/StefanoDeVuono/steghide) ⭐ 790 | 🐛 4 | 🌐 C++ | 📅 2024-02-20 - is a steganography program that hides data in various kinds of image and audio files
-* [Foremost](https://github.com/korczis/foremost) ⭐ 382 | 🐛 7 | 🌐 C | 📅 2023-05-26 - is a program to recover files based on their headers and footers
+* [Foremost](https://github.com/korczis/foremost) ⭐ 383 | 🐛 7 | 🌐 C | 📅 2023-05-26 - is a program to recover files based on their headers and footers
 * [Wavsteg](https://github.com/samolds/wavsteg) ⭐ 14 | 🐛 0 | 🌐 C | 📅 2017-12-14 - is a steganography program that hides data in various kinds of image and audio files
 * [Sonicvisualizer](https://www.sonicvisualiser.org)
 * [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar) - analyze images in different planes by taking off bits of the image
@@ -264,7 +264,7 @@ A list of free and open source forensics analysis tools and other resources.
 
 ### Challenges
 
-* [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics) ⭐ 11,989 | 🐛 73 | 🌐 JavaScript | 📅 2024-07-22
+* [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics) ⭐ 11,991 | 🐛 73 | 🌐 JavaScript | 📅 2024-07-22
 * [MemLabs](https://github.com/stuxnet999/MemLabs) ⭐ 1,934 | 🐛 0 | 🌐 Shell | 📅 2021-03-08
 * [AnalystUnknown Cyber Range](https://aucr.io/auth/login?next=%2F)
 * [Champlain College DFIR CTF](https://champdfa-ccsc-sp20.ctfd.io)
@@ -352,21 +352,21 @@ A list of free and open source forensics analysis tools and other resources.
 
 ## Related Awesome Lists
 
-* [OSINT](https://github.com/jivoi/awesome-osint) ⭐ 31,000 | 🐛 7 | 📅 2026-11-08
-* [Pentesting](https://github.com/enaqx/awesome-pentest) ⭐ 27,700 | 🐛 161 | 📅 2026-07-25
-* [Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,486 | 🐛 73 | 📅 2024-06-02
-* [Security](https://github.com/sbilly/awesome-security) ⭐ 15,096 | 🐛 395 | 📅 2026-01-11
-* [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,404 | 🐛 25 | 📅 2024-06-07
-* [CTFs](https://github.com/apsdehal/awesome-ctf) ⭐ 11,989 | 🐛 73 | 🌐 JavaScript | 📅 2024-07-22
-* [Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,663 | 🐛 34 | 🌐 Python | 📅 2026-06-01
-* [Android Security](https://github.com/ashishb/android-security-awesome) ⭐ 9,823 | 🐛 1 | 🌐 Makefile | 📅 2026-11-09
-* [Incident-Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,557 | 🐛 116 | 📅 2026-10-13
-* [AppSec](https://github.com/paragonie/awesome-appsec) ⭐ 7,134 | 🐛 43 | 🌐 PHP | 📅 2025-02-22
+* [OSINT](https://github.com/jivoi/awesome-osint) ⭐ 31,036 | 🐛 2 | 📅 2026-11-12
+* [Pentesting](https://github.com/enaqx/awesome-pentest) ⭐ 27,714 | 🐛 164 | 📅 2026-07-25
+* [Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,489 | 🐛 73 | 📅 2024-06-02
+* [Security](https://github.com/sbilly/awesome-security) ⭐ 15,098 | 🐛 398 | 📅 2026-01-11
+* [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,406 | 🐛 25 | 📅 2024-06-07
+* [CTFs](https://github.com/apsdehal/awesome-ctf) ⭐ 11,991 | 🐛 73 | 🌐 JavaScript | 📅 2024-07-22
+* [Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,663 | 🐛 36 | 🌐 Python | 📅 2026-06-01
+* [Android Security](https://github.com/ashishb/android-security-awesome) ⭐ 9,827 | 🐛 1 | 🌐 Makefile | 📅 2026-11-09
+* [Incident-Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,560 | 🐛 117 | 📅 2026-10-13
+* [AppSec](https://github.com/paragonie/awesome-appsec) ⭐ 7,137 | 🐛 43 | 🌐 PHP | 📅 2025-02-22
 * [Infosec](https://github.com/onlurking/awesome-infosec) ⭐ 5,782 | 🐛 21 | 📅 2026-08-28
-* [Awesome Forensics](https://github.com/cugu/awesome-forensics) ⭐ 5,248 | 🐛 17 | 📅 2026-09-26
-* [Social Engineering](https://github.com/v2-dev/awesome-social-engineering) ⭐ 4,329 | 🐛 14 | 📅 2023-04-05
+* [Awesome Forensics](https://github.com/cugu/awesome-forensics) ⭐ 5,248 | 🐛 18 | 📅 2026-09-26
+* [Social Engineering](https://github.com/v2-dev/awesome-social-engineering) ⭐ 4,330 | 🐛 14 | 📅 2023-04-05
 * [YARA](https://github.com/InQuest/awesome-yara) ⭐ 4,318 | 🐛 4 | 📅 2026-06-15
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
